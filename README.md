@@ -1,3 +1,3 @@
-# responsive-navbar-w-tailwind
+# Responsive Navbar with TailwindCSS
 
-A responsive navbar created with tailwind
+A responsive navbar created with tailwind css
