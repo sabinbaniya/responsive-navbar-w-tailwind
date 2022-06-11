@@ -1,0 +1,23 @@
+{
+  "name": "responsive-navbar-w-tailwind",
+  "version": "1.0.0",
+  "description": "A responsive navbar created with tailwind css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sabinbaniya/responsive-navbar-w-tailwind.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sabinbaniya/responsive-navbar-w-tailwind/issues"
+  },
+  "homepage": "https://github.com/sabinbaniya/responsive-navbar-w-tailwind#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.1.2"
+  }
+}
